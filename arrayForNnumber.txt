@@ -1,0 +1,7 @@
+   // creating array of n number of elements.
+
+       let files = new Array(23);
+        console.log(files.length);
+        files = files.sort();
+        files.push("Push another file");
+        console.log(files);
